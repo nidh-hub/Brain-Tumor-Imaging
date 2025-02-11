@@ -1,0 +1,20 @@
+# Search Protocol - Group 02
+
+Search string
+
+~~~~~ {.searchstring }
+(cancer OR {tumor} OR {tumour} OR {sarcoma} OR {malign*}) AND (detect* OR {spot*}) AND ("image processing") AND (accura*) AND (brain)
+~~~~~
+
+Number of papers: 36
+
+Inclusion criteria:
+
+1.Answers the research question
+2.Published between 2014 - 2021
+3.Articles from journals
+4.Must show empirical evidence
+
+Exclusion criteria:
+
+1.Duplicate articles

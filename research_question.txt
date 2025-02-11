@@ -1,0 +1,20 @@
+
+# Research Question - Group 02
+
+Members: Nidhi Chakravarthy, Jolyn Tellis, Anju Thampi, Akhil Kishore Dundi, Talha Mahmood Raja 
+
+Topic: Malignant cell detection in the brain using image processing
+
+RQ: How do different image processing techniques detect cancer cells in brain?
+
+Context: Cancer cell detection in brain
+
+Population: Cancer cells
+
+Intervention: Image processing algorithms
+
+Comparison: Backpropagation vs Thermography vs Grayscale
+
+Outcome: Accuracy
+
+
